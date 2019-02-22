@@ -2,4 +2,5 @@
 
 ### Requirements
 Tensorflow
-[<a href="https://github.com/hiroharu-kato/neural_renderer">Neural Mesh Renderer</a>]
+
+<a href="https://github.com/hiroharu-kato/neural_renderer">Neural Mesh Renderer</a>
